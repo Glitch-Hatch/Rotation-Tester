@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/Users/obryanr/Documents/GitHub/Rotation-Tester/RotationTester/Content/FirstPerson/Blueprints/BP_FirstPersonCameraManager.uasset",
+				"/Users/obryanr/Documents/GitHub/Rotation-Tester/RotationTester/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"/Users/obryanr/Documents/GitHub/Rotation-Tester/RotationTester/Content/FirstPerson/Blueprints/BP_FirstPersonPlayerController.uasset",
 				"/Users/o'bryanr/Documents/Unreal Projects/RotationTester/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"/Users/o'bryanr/Documents/Unreal Projects/RotationTester/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/9/3M/CN6DASGRPPAPEICARMETU3.uasset",
 				"/Users/o'bryanr/Documents/Unreal Projects/RotationTester/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/TG/2MDU2GF02TMAKTSII7ZI7V.uasset",
