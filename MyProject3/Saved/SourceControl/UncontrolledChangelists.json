@@ -5,8 +5,16 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/robby/OneDrive/Documents/GitHub/Rotation-Tester/MyProject3/Content/FirstPerson/Blueprints/BP_zeroGBox.uasset",
 				"/Users/obryanr/Documents/Unreal Projects/MyProject3/Content/FirstPerson/Blueprints/BP_Projectile.uasset",
+				"/Users/obryanr/Documents/Unreal Projects/MyProject3/Content/FirstPerson/Blueprints/BP_Dot.uasset",
+				"/Users/obryanr/Documents/Unreal Projects/MyProject3/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"/Users/obryanr/Documents/Unreal Projects/MyProject3/Content/FirstPerson/Blueprints/BP_zeroGBox.uasset",
+				"/Users/obryanr/Documents/Unreal Projects/MyProject3/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/BH/VY2UHEC8IVNQ7REHUE7YYU.uasset",
+				"/Users/obryanr/Documents/Unreal Projects/MyProject3/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/GZ/TTBKQTM7H2HDLWB3T16ZLY.uasset",
+				"/Users/obryanr/Documents/Unreal Projects/MyProject3/Content/FirstPerson/Blueprints/M_Projectile.uasset",
+				"/Users/obryanr/Documents/Unreal Projects/MyProject3/Content/FirstPerson/Blueprints/M_blackDot.uasset",
+				"/Users/obryanr/Documents/GitHub/Rotation-Tester/MyProject3/Content/FirstPerson/Blueprints/BP_zeroGBox.uasset",
+				"C:/Users/robby/OneDrive/Documents/GitHub/Rotation-Tester/MyProject3/Content/FirstPerson/Blueprints/BP_zeroGBox.uasset",
 				"/Users/obryanr/Documents/Unreal Projects/MyProject3/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/KL/17EY7JSE7TF01OWV9LBSC1.uasset",
 				"/Users/obryanr/Documents/Unreal Projects/MyProject3/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/3/BN/PJBVMDVV9BICN8MLKJ849X.uasset",
 				"/Users/obryanr/Documents/Unreal Projects/MyProject3/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/6J/NUEDVP0K274K8FKJ6Y0WEX.uasset",
@@ -20,14 +28,7 @@
 				"/Users/obryanr/Documents/Unreal Projects/MyProject3/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/0I/0PXPLZ76IWADZO9D6J4VWA.uasset",
 				"/Users/obryanr/Documents/Unreal Projects/MyProject3/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/ER/GJUIXEEO8HUV9WZCSZR9GH.uasset",
 				"/Users/obryanr/Documents/Unreal Projects/MyProject3/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/XL/U0BAKX7624EKY7QR8W4QDX.uasset",
-				"/Users/obryanr/Documents/Unreal Projects/MyProject3/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/9/AC/RFQ7INIHB1Q1JWY7DWYQ5Y.uasset",
-				"/Users/obryanr/Documents/Unreal Projects/MyProject3/Content/FirstPerson/Blueprints/BP_Dot.uasset",
-				"/Users/obryanr/Documents/Unreal Projects/MyProject3/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
-				"/Users/obryanr/Documents/Unreal Projects/MyProject3/Content/FirstPerson/Blueprints/BP_zeroGBox.uasset",
-				"/Users/obryanr/Documents/Unreal Projects/MyProject3/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/BH/VY2UHEC8IVNQ7REHUE7YYU.uasset",
-				"/Users/obryanr/Documents/Unreal Projects/MyProject3/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/GZ/TTBKQTM7H2HDLWB3T16ZLY.uasset",
-				"/Users/obryanr/Documents/Unreal Projects/MyProject3/Content/FirstPerson/Blueprints/M_Projectile.uasset",
-				"/Users/obryanr/Documents/Unreal Projects/MyProject3/Content/FirstPerson/Blueprints/M_blackDot.uasset"
+				"/Users/obryanr/Documents/Unreal Projects/MyProject3/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/9/AC/RFQ7INIHB1Q1JWY7DWYQ5Y.uasset"
 			]
 		}
 	]
